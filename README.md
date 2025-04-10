@@ -75,7 +75,7 @@
 
 # Underground Forums (Dark Web)
 
-- **Forum 1**  
+- **Tor Project Forum**  
   `https://v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion/`
 
 - **Breach Forum (New)**  
