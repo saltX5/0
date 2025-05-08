@@ -1,29 +1,30 @@
-⚠️Search engines for OSINT⚠️ 
- 
-https://leak.sx 
-http://scylla.sh 
-https://intelx.io 
-https://4iq.com 
-https://leaked.site 
-https://hashes.org 
-https://leakcheck.io 
-https://vigilante.pw 
-https://leakcheck.net 
-https://weleakinfo.to 
-https://leakcorp.com 
-https://leakpeek.com 
-https://rslookup.com 
-https://snusbase.com 
-https://ghostproject.fr 
-https://leakedsource.ru 
-https://leak-lookup.com 
-https://nuclearleaks.com 
-https://private-base.info 
-https://haveibeensold.app 
-https://breachchecker.com 
-https://dehashed.com 
-http://scatteredsecrets.com 
-https://haveibeenpwned.com 
-https://haveibeenpwned.com 
-https://services.normshield.com 
-https://joe.black/leakengine.html
+# ⚠️ Search Engines for OSINT ⚠️
+
+A collection of OSINT-focused search engines for breach and leak investigations:
+
+- [Leak.sx](https://leak.sx)
+- [Scylla.sh](http://scylla.sh)
+- [IntelX](https://intelx.io)
+- [4iQ](https://4iq.com)
+- [Leaked.site](https://leaked.site)
+- [Hashes.org](https://hashes.org)
+- [LeakCheck.io](https://leakcheck.io)
+- [Vigilante.pw](https://vigilante.pw)
+- [LeakCheck.net](https://leakcheck.net)
+- [WeLeakInfo.to](https://weleakinfo.to)
+- [LeakCorp](https://leakcorp.com)
+- [LeakPeek](https://leakpeek.com)
+- [RSLookup](https://rslookup.com)
+- [Snusbase](https://snusbase.com)
+- [GhostProject](https://ghostproject.fr)
+- [LeakedSource.ru](https://leakedsource.ru)
+- [Leak-Lookup](https://leak-lookup.com)
+- [NuclearLeaks](https://nuclearleaks.com)
+- [Private-Base.info](https://private-base.info)
+- [HaveIBeenSold](https://haveibeensold.app)
+- [BreachChecker](https://breachchecker.com)
+- [DeHashed](https://dehashed.com)
+- [ScatteredSecrets](http://scatteredsecrets.com)
+- [Have I Been Pwned](https://haveibeenpwned.com)
+- [NormShield Services](https://services.normshield.com)
+- [Joe Black's Leak Engine](https://joe.black/leakengine.html)
