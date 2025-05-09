@@ -78,5 +78,10 @@
 - **Tor Project Forum**  
   `https://v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion/`
 
-- **Breach Forum (New)**  
+- **Breach Forum**  
   `http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion`
+
+- **bitten Forum (New)**  
+  `http://bitten2oqk7hgmmphkiqvdtkzk5yqbm3a3g3ykzenar6oqlelhqbmjad.onion`
+
+
