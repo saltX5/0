@@ -102,3 +102,9 @@
   `http://lvstqoc6c4epgtklmaemtux5436tcdphbclcmbhw3u46g42nfhexmbid.onion/`
 
 ---
+
+##  Crypto Swapping
+- Wizard Swap
+`http://wizardswgtu2ovor7r2esg3cxdpt7tv4nrugi32lldv53zmtonbz6sid.onion/`
+
+---
