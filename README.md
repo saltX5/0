@@ -33,14 +33,8 @@
 - Monti  
   `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion/`
 
-- Qilin  
-  `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/`
-
 - Unnamed  
   `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion/`
-
-- Vice Society  
-  `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion`
 
 - Akira  
   `https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/`
@@ -81,11 +75,11 @@
   `http://binanonxcdwzvlsk7yaq62pz53kspf2qm7esb4twcmpa7dxp5r3tjvid.onion`
 - Dark Forest  
   `http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion`
-- Exploit Marketplace  
+- Exploit.in
   `https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/`
-- Pitch Leak Board  
+- Pitch forum
   `http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion`
-- Dread – Fair Trade Forum  
+- Dread Forum  
   `http://dreadytognbh7m5nlmqsogzzlxjy75iuxkulewbhxcorupbqahact2yd.onion`
 
 ---
